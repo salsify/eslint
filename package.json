@@ -38,7 +38,7 @@
     "debug": "^2.0.0",
     "doctrine": "^0.5.2",
     "escope": "salsify/escope#es6-features",
-    "esprima": "ariya/esprima#55f7eba7d245df18ab8e3672af08cd1b94c38944",
+    "esprima": "ariya/esprima#216189496afc6bd3f7021a05253c64f9858b6ff9",
     "estraverse": "^1.8.0",
     "js-yaml": "~3.2.2",
     "minimatch": "^1.0.0",
